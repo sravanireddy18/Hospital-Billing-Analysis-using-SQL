@@ -42,7 +42,7 @@ Average Recovery Days by Ward
 
 Evaluate ward performance based on patient recovery duration.
 
-Most Common Diagnoses
+## Most Common Diagnoses
 
 Identify frequently occurring health issues.
 
